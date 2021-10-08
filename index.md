@@ -56,6 +56,16 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### Personal interests
+
+
+- rottweiler amateurs kennel
+- farming
+- boxing 
+- karting
+- video maker
+- electric guitar
+
 ### Journals
 
 `1669`
