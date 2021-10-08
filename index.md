@@ -55,10 +55,18 @@ Associate, *French Academy of Science*, Paris, France
 ## Skills
 
 - Languages: 
-  - _Intermediate_: Java, JSP, Python, Rust 
-  - _Basic_: SCSS, PHP
+  - _Intermediate_: Java, Javascript, JSP, Python, Rust 
+  - _Basic_: SCSS, PHP, bash-script
 - Front end web framework:
   - _Basic_: Vue, Svelte, Flask, Django, Yew
+
+### Tools and technologies
+- _Intermediate_
+  - Eclipse, HTML, JSON, MySql, Redis, mongoDB
+- _Basic to Intermediate_
+  - Vim, Docker, docker-compose
+- _Basic_
+  - git, neo4j
  
 
 ### Personal interests
