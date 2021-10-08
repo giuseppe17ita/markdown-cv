@@ -1,52 +1,91 @@
 ---
-layout: default
+layout: cv
+title: Branca Giuseppe's CV
 ---
+# Branca Giuseppe
+Physicist, Mathematician, Cambridge professor.
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
-
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
-
-### what does that mean?
-
-Write your CV like this...
-
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
-
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<div id="webaddress">
+<a href="giuseppe@emiliobranca.it">giuseppe@emiliobranca.it</a>
+<!--| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>-->
+</div>
 
 
+## Currently
 
-## Usage
+Standing on the shoulders of giants
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+### Specialized in
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Research interests
 
-adding your skills, jobs and education.
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+## Education
 
-### 1) Using Github Pages to publish it online
+`1654-1660`
+__The King's School, Grantham.__
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+- Sizar
 
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
+`1667 - death`
+__Trinity College, Cambridge__
 
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
