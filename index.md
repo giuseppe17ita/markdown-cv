@@ -7,7 +7,6 @@ Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="giuseppe@emiliobranca.it">giuseppe@emiliobranca.it</a>
-<!--| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>-->
 </div>
 
 
