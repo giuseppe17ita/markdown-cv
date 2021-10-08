@@ -71,7 +71,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Personal interests
 
-- rottweiler amateurs kennel
+- amateur rottweiler kennel
 - farming
 - boxing 
 - karting
