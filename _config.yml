@@ -7,4 +7,4 @@ description: markdown-cv is a simple template to list all your accomplishments i
 markdown: kramdown
 exclude: ["README.md"]
 sass:
-  style: davewhipp
+  style: kjhealy
