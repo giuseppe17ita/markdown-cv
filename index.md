@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Branca Giuseppe's CV
 ---
 # Branca Giuseppe
