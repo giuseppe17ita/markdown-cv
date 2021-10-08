@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 title: Branca Giuseppe's CV
 ---
 # Branca Giuseppe
@@ -12,7 +12,9 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, CRM manager and CEO 
+
+@ 3B Branca Emilio srl
 
 ### Specialized in
 
@@ -85,6 +87,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2021 -->
 
 
