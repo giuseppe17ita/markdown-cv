@@ -12,7 +12,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, CRM manager and CEO 
+Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager and CEO 
 
 @ 3B Branca Emilio srl
 
@@ -52,12 +52,16 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Languages: 
+  - _Intermediate_: Java, JSP, Python, Rust 
+  - _Basic_: SCSS, PHP
+- Front end web framework:
+  - _Basic_: Vue, Svelte, Flask, Django, Yew
+ 
 
 ### Personal interests
-
 
 - rottweiler amateurs kennel
 - farming
