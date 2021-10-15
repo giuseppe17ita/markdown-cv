@@ -3,7 +3,6 @@ layout: default
 title: Branca Giuseppe's CV
 ---
 # Branca Giuseppe
-Physicist, Mathematician, Cambridge professor!!! machecazzo
 
 <div id="webaddress">
 <a href="giuseppe@emiliobranca.it">giuseppe@emiliobranca.it</a>
@@ -43,12 +42,17 @@ __ICDL__
 
 - Essentials certificate
 
+### Languages
+`Italiano`
+native
 
+`English`
+intermediate
 
 
 ### Skills
 
-- Languages: 
+`Programming Languages`: 
   - _Intermediate_: Java, Javascript, JSP, Python, Rust 
   - _Basic_: SCSS, PHP, ASP, bash-script
 - Front end web framework:
@@ -58,9 +62,9 @@ __ICDL__
 - _Intermediate_
   - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
 - _Basic to Intermediate_
-  - Vim, Docker, docker-compose
+  - Docker, docker-compose, CSS
 - _Basic_
-  - git, neo4j, XML
+  - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
  
 
 ## Personal interests
@@ -81,8 +85,10 @@ B
 `2008`
 A1
 
-<!-- ### Footer
+### Footer
 
-Last updated: October 2021 -->
+Last updated: October 2021
+
+Autorizzio il trattamento dei miei dati ai sensi del Dlgs 196 del 30 giugno 2003
 
 
