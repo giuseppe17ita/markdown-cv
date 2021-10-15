@@ -41,10 +41,10 @@ __ICDL__
 
 ## Skills
 
-`Programming Languages`: 
+`Programming Languages`
   - _Intermediate_: Java, Javascript, JSP, Python, Rust 
   - _Basic_: SCSS, PHP, ASP, bash-script
-- Front end web framework:
+`Front end web framework`
   - _Basic_: Vue, Svelte, Flask, Django, Yew
 
 `Tools, Os and technologies`
@@ -80,7 +80,7 @@ B
 `2008`
 A1
 
-### Footer
+###  
 
 Last updated: October 2021
 
