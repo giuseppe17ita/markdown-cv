@@ -87,8 +87,7 @@ A1
 
 ----------
 
-^Last updated: October 2021^
-
-^Autorizzio il trattamento dei miei dati ai sensi del Dlgs 196 del 30 giugno 2003^
+> Last updated: October 2021
+> Autorizzio il trattamento dei miei dati ai sensi del Dlgs 196 del 30 giugno 2003
 
 
