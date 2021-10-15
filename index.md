@@ -11,7 +11,7 @@ title: Branca Giuseppe's CV
 
 ## Currently
 
-3B Branca Emilio srl
+`3B Branca Emilio srl`
 Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager and CEO 
 
 
