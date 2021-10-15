@@ -15,20 +15,16 @@ title: Branca Giuseppe's CV
 Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager and CEO 
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-### Education and training
+## Education and training
 
 `2011`
 __ISISS “G. Salvemini”, Alessano - Italy__ 
 
 - IT Diploma
 
-2010
-QBR Engineering srl
+`2010`
+**QBR Engineering srl**
 
 - IT Summer Stage
 
@@ -42,6 +38,23 @@ __ICDL__
 
 - Essentials certificate
 
+
+## Skills
+
+`Programming Languages`: 
+  - _Intermediate_: Java, Javascript, JSP, Python, Rust 
+  - _Basic_: SCSS, PHP, ASP, bash-script
+- Front end web framework:
+  - _Basic_: Vue, Svelte, Flask, Django, Yew
+
+`Tools, Os and technologies`
+- _Intermediate_
+  - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
+- _Basic to Intermediate_
+  - Docker, docker-compose, CSS
+- _Basic_
+  - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
+ 
 ### Languages
 `Italiano`
 native
@@ -50,25 +63,7 @@ native
 intermediate
 
 
-### Skills
-
-`Programming Languages`: 
-  - _Intermediate_: Java, Javascript, JSP, Python, Rust 
-  - _Basic_: SCSS, PHP, ASP, bash-script
-- Front end web framework:
-  - _Basic_: Vue, Svelte, Flask, Django, Yew
-
-### Tools, Os and technologies
-- _Intermediate_
-  - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
-- _Basic to Intermediate_
-  - Docker, docker-compose, CSS
-- _Basic_
-  - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
- 
-
-## Personal interests
-
+### Personal interests
 - amateur rottweiler kennel
 - farming
 - boxing 
@@ -77,7 +72,7 @@ intermediate
 - electric guitar
 
 
-## Driver licenses
+### Driver licenses
 
 `2010`
 B
