@@ -11,7 +11,7 @@ Remote work candidature | <a href="giuseppe@emiliobranca.it">giuseppe@emiliobran
 
 ## Currently
 
-`3B Branca Emilio srl`
+`3B Branca Emilio srl`<br>
 Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager, CEO and owner
 
 
@@ -54,7 +54,7 @@ __ICDL__
   - _Intermediate_
     - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
   - _Basic to Intermediate_
-    - Docker, docker-compose, CSS, IoT (whit esp and micropython)
+    - Docker, docker-compose, CSS, IoT (with esp-board and micropython)
   - _Basic_
     - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
  
@@ -74,7 +74,7 @@ intermediate
 
 
 ### Personal interests
-amateur rottweiler kennel, farming, boxing , karting, video maker, electric guitar
+amateur rottweiler kennel, farming, boxing , karting, video maker, guitar
 
 
 ### Driver licenses
