@@ -44,10 +44,11 @@ __ICDL__
 `Programming Languages`
   - _Intermediate_: Java, Javascript, JSP, Python, Rust 
   - _Basic_: SCSS, PHP, ASP, bash-script
+
 `Front end web framework`
   - _Basic_: Vue, Svelte, Flask, Django, Yew
 
-`Tools, Os and technologies`
+`Tools, Os and techs`
 - _Intermediate_
   - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
 - _Basic to Intermediate_
@@ -75,10 +76,10 @@ B
 `2008`
 A1
 
-###  
+----------
 
-Last updated: October 2021
+^Last updated: October 2021^
 
-Autorizzio il trattamento dei miei dati ai sensi del Dlgs 196 del 30 giugno 2003
+^Autorizzio il trattamento dei miei dati ai sensi del Dlgs 196 del 30 giugno 2003^
 
 
