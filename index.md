@@ -26,12 +26,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education and training
+### Education and training
 
 `2011`
 __ISISS “G. Salvemini”, Alessano - Italy__ 
 
--IT Diploma
+- IT Diploma
 
 `2020`
 __ECDL__
