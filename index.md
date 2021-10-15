@@ -64,12 +64,7 @@ intermediate
 
 
 ### Personal interests
-- amateur rottweiler kennel
-- farming
-- boxing 
-- karting
-- video maker
-- electric guitar
+amateur rottweiler kennel, farming, boxing , karting, video maker, electric guitar
 
 
 ### Driver licenses
