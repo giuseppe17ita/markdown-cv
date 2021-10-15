@@ -12,13 +12,8 @@ Physicist, Mathematician, Cambridge professor!!! machecazzo
 
 ## Currently
 
+3B Branca Emilio srl
 Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager and CEO 
-
-@ 3B Branca Emilio srl
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
@@ -33,43 +28,42 @@ __ISISS “G. Salvemini”, Alessano - Italy__
 
 - IT Diploma
 
+2010
+QBR Engineering srl
+
+- IT Summer Stage
+
 `2020`
 __ECDL__
+
+- Base certificate
 
 `2020`
 __ICDL__
 
-- Fellow
+- Essentials certificate
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Skills
+### Skills
 
 - Languages: 
   - _Intermediate_: Java, Javascript, JSP, Python, Rust 
-  - _Basic_: SCSS, PHP, bash-script
+  - _Basic_: SCSS, PHP, ASP, bash-script
 - Front end web framework:
   - _Basic_: Vue, Svelte, Flask, Django, Yew
 
-### Tools and technologies
+### Tools, Os and technologies
 - _Intermediate_
-  - Eclipse, HTML, JSON, MySql, Redis, mongoDB
+  - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
 - _Basic to Intermediate_
   - Vim, Docker, docker-compose
 - _Basic_
-  - git, neo4j
+  - git, neo4j, XML
  
 
-### Personal interests
+## Personal interests
 
 - amateur rottweiler kennel
 - farming
@@ -78,34 +72,14 @@ Associate, *French Academy of Science*, Paris, France
 - video maker
 - electric guitar
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Driver licenses
 
-`1669`
-Lectiones opticæ.
+`2010`
+B
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2008`
+A1
 
 <!-- ### Footer
 
