@@ -5,15 +5,14 @@ title: Branca Giuseppe's CV
 # Branca Giuseppe
 
 <div id="webaddress">
-<a href="giuseppe@emiliobranca.it">giuseppe@emiliobranca.it</a>
+Remote work candidature | <a href="giuseppe@emiliobranca.it">giuseppe@emiliobranca.it</a>
 </div>
 
 
 ## Currently
 
 `3B Branca Emilio srl`
-Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager and CEO 
-
+Men's suits salesman, men's fashion accessories tailor, production chains chief, supply chain manager, first accounting manager, CRM manager, CEO and owner
 
 
 ## Education and training
@@ -59,7 +58,8 @@ __ICDL__
   - _Basic_
     - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
  
-`Other Skills`
+## Other Skills
+
   - _Intermediate_
     - Elettrician and pumbler skills
   - _Basic_
