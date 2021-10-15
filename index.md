@@ -41,21 +41,30 @@ __ICDL__
 
 ## Skills
 
-`Programming Languages`
-  - _Intermediate_: Java, Javascript, JSP, Python, Rust 
-  - _Basic_: SCSS, PHP, ASP, bash-script
+`Programming Languages`<br>
+  - _Intermediate_ 
+    - Java, Javascript, JSP, Python, Rust 
+  - _Basic_ 
+    - SCSS, PHP, ASP, bash-script
 
-`Front end web framework`
-  - _Basic_: Vue, Svelte, Flask, Django, Yew
+`Front end web framework`<br>
+  - _Basic_ 
+    - Vue, Svelte, Flask, Django, Yew
 
-`Tools, Os and techs`
-- _Intermediate_
-  - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
-- _Basic to Intermediate_
-  - Docker, docker-compose, CSS
-- _Basic_
-  - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
+`Tools, Os and technologies`<br>
+  - _Intermediate_
+    - Eclipse, HTML, JSON, MySql, Redis, mongoDB, Office, Autocad, Seagull Bartender, Linux-based OS, Windows, Mac Os
+  - _Basic to Intermediate_
+    - Docker, docker-compose, CSS, IoT (whit esp and micropython)
+  - _Basic_
+    - git, neo4j, XML, Proxmox, TrueNas, CaddyServer, Drone-CI, Sonarqube
  
+`Other Skills`
+  - _Intermediate_
+    - Elettrician and pumbler skills
+  - _Basic_
+    - Smith and welder skills
+
 ### Languages
 `Italiano`
 native
